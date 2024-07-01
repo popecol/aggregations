@@ -1,4 +1,8 @@
 
+# Plots generated for publication.
+# Authors: micwaw2@st.amu.edu.pl & lechu@amu.edu.pl
+
+
 # setup -------------------------------------------------------------------
 dir <- dir()
 

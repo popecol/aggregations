@@ -1,4 +1,8 @@
 
+# Relative Standard Deviation Index computation.
+# Author: lechu@amu.edu.pl
+
+
 # Coordinates of segment cenroids (km)
 x <- rep(c(0.25, 0.75), each = 5)
 y <- seq(0.1, 0.9, 0.2); y <- c(y, rev(y))

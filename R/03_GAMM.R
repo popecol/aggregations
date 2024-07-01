@@ -1,4 +1,8 @@
 
+# GAMM modeling.
+# Authors: micwaw2@st.amu.edu.pl & lechu@amu.edu.pl
+
+
 # Setup -------------------------------------------------------------------
 
 library(mgcv)

@@ -1,4 +1,8 @@
 
+# Data preparation.
+# Author: lechu@amu.edu.pl
+
+
 library(pbapply)
 
 source("R/setup.R")

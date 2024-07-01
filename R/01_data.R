@@ -1,11 +1,14 @@
 
+# Data preparation.
+# Author: lechu@amu.edu.pl
+
+
 # Setup -------------------------------------------------------------------
 
 # library(terra)
 # library(fst)
 
 source("R/setup.R")
-
 
 # Density data
 load("../MPPL_data/W/data/data.RData")
